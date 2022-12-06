@@ -92,6 +92,7 @@ Find as many bugs as possible.
 2. Run a second test plan
 3. Update the bug tracker accordingly
 4. Send me the bug tracker link by email
+5. Send me the two test plan runs by email
 
 ## Sequence 3 - test automation with Playwright
 
