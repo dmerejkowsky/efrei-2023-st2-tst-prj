@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "This repository contains all the information you need to complete the\r project for the ST2 Software Testing course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DabiK/efrei-2023-st2-tst-prj-group-d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DabiK/efrei-2023-st2-tst-prj-group-d/issues"
+  },
+  "homepage": "https://github.com/DabiK/efrei-2023-st2-tst-prj-group-d#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  }
+}
