@@ -21,7 +21,8 @@ in this repository.
 
 You will be using a web application (Human Relations Database Manager), or hr-db for short.
 
-There a 16 instances deployed on `https://hr.dmerej.info` - each team has its own instance. Please only use your instance!
+There a 23 instances deployed on my server. From `https://a.hr.dmerej.info` to
+`https://z.hr.dmerej.info` - each team has its own instance. Please only use your instance!
 
 Each instance shares the same code, and the production code is intentionally buggy (at least 3 bugs, probably more)
 
