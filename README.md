@@ -99,7 +99,7 @@ Find as many bugs as possible.
 
 1. Choose one of the languages supported by [playwright](https://playwright.dev/) -
    TypeScript, JavaScript, Python, .Net, Java
-1. Install a web driver
+1. Install a web driver using the `playwright` command line.
 1. Start to automate tests from the previous sequence, but *take your time*, I
    want to see **maintainable test code**.
 
