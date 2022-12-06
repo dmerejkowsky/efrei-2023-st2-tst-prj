@@ -100,7 +100,7 @@ Find as many bugs as possible.
 1. Choose one of the languages supported by [playwright](https://playwright.dev/) -
    TypeScript, JavaScript, Python, .Net, Java
 1. Install a web driver
-1. Start to automate tests from the last sequence, but *take your time*, I
+1. Start to automate tests from the previous sequence, but *take your time*, I
    want to see **maintainable test code**.
 
 ## Sequence 4 - integration tests
