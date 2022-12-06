@@ -19,5 +19,8 @@
   "homepage": "https://github.com/DabiK/efrei-2023-st2-tst-prj-group-d#readme",
   "devDependencies": {
     "@playwright/test": "^1.28.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
