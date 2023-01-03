@@ -1,9 +1,12 @@
 # Python backend
 
-Install Python (>=3.6)  and [Poetry](https://python-poetry.org/) then run:
+Install Python (>=3.7) and then run
 
 ```
-$ python -m poetry install --group main
-$ python -m poetry run python manage.py migrate
-$ python -m poetry run python manage.py runserver 5678
+$ python -m venv .venv
+$ .venv\Scripts\activate.bat  # on windows
+$ .venv/bin/activate # on Linux, mac
+$ pip install -r requirements.txt
+$ python manage.py migrate
+$ python manage.py runserver
 ```
