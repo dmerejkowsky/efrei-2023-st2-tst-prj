@@ -30,7 +30,6 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "django_components",
     "django_bootstrap5",
     "hr",
 ]
@@ -67,12 +66,8 @@ TEMPLATES = [
                     [
                         "django.template.loaders.filesystem.Loader",
                         "django.template.loaders.app_directories.Loader",
-                        "django_components.template_loader.Loader",
                     ],
                 ),
-            ],
-            "builtins": [
-                "django_components.templatetags.component_tags",
             ],
         },
     }
