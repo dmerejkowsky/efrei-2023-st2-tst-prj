@@ -7,5 +7,7 @@ test.describe("employee informations tests", () => {
     await page.goto(pages.EMPLOYEE);
   });
 
-  test("should display correct informations", async ({ page }) => {});
+  test("should display correct informations", async ({ page }) => {
+    
+  });
 });
